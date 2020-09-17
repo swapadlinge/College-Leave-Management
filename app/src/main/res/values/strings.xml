@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Leave Management</string>
+
+    <array name="leave_status">
+        <item>Approved</item>
+        <item>Not Approved</item>
+    </array>
+    <array name="department">
+        <item>Computer</item>
+        <item>Civil</item>
+        <item>Extc</item>
+        <item>Production</item>
+        <item>Electrical</item>
+    </array>
+</resources>

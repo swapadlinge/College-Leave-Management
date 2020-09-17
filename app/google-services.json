@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "584698381273",
+    "firebase_url": "https://leave-management-f2d3a.firebaseio.com",
+    "project_id": "leave-management-f2d3a",
+    "storage_bucket": "leave-management-f2d3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584698381273:android:bd03ad92d3b54722",
+        "android_client_info": {
+          "package_name": "com.example.sourabh.leavemanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584698381273-9pr05lnvrdunan4bldlira0u4po4rn24.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sourabh.leavemanagement",
+            "certificate_hash": "16692827bbe4c5705d6c79a6fad324e3e7df9878"
+          }
+        },
+        {
+          "client_id": "584698381273-lktaqngcf839bl28jckr51u5rcdlbm56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu9mVNqTqUJfkP94k9a_QQ969DZadI4Wo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584698381273-lktaqngcf839bl28jckr51u5rcdlbm56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
